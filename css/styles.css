@@ -155,3 +155,11 @@ footer {
   }
 }
 
+.parallax {
+  background-image: url('../assets/images/parallax.jpg');
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
